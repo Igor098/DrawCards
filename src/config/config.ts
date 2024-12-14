@@ -1,0 +1,1 @@
+export const AFISHA_KEY="ccd44bdd2b0157aeea0e"
